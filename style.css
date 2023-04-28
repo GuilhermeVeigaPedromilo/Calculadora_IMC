@@ -1,0 +1,12 @@
+html {
+    display: flex;
+    justify-content: center;
+}
+label {
+    background-color: white;
+}
+input {
+    background-color: rgb(197, 197, 197);
+    height: 30px;
+    width: 100px;
+}
